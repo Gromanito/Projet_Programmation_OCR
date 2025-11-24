@@ -16,4 +16,4 @@ The goal was to prepare the images for analysis with a convolutional neural netw
 - YOLO
 
 ## Link to the original repository
-https://github.com/Gromanito/projet-programmation
+https://github.com/Gromanito/projet-programmation-groupe-I
